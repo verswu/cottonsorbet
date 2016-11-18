@@ -1,0 +1,6 @@
+Important:
+-query for different terms (contest OR sweepstake OR giveaway)
+-stat tracker (how many entered. how many won.)
+
+Random:
+-live website?
